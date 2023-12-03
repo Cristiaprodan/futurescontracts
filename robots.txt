@@ -1,1 +1,1 @@
-Sitemap: futurescontracts.netlify.app/sitemap.xml
+Sitemap: https://futurescontracts.netlify.app/sitemap.xml
